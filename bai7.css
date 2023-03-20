@@ -1,0 +1,9 @@
+.div1{border: 1px solid rgb(147, 143, 143);
+    width: 500px;
+}
+.div3{
+    border: 1px solid rgb(147, 143, 143);
+    border-radius: 5px;
+    background-color: rgb(79, 66, 221);
+    margin-left: 400px;
+}

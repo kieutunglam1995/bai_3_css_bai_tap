@@ -1,0 +1,21 @@
+button{
+    border-radius: 10px;
+    background-color: blue;
+    color: aliceblue;
+    border: 1px solid black;
+}
+.div{
+    border: 1px solid black;
+    width: 500px;
+
+}
+.span{
+   text-align: right;
+  
+   
+}
+.div1{
+    text-align: right;
+    margin-top: -40px;
+    margin-right: 10px;
+}

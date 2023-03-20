@@ -1,0 +1,19 @@
+.span1{
+    margin-left: 300px;
+}
+.div1{
+    background-color: rgb(132, 221, 221);
+    width: 480px;
+    border: 1px solid black;
+}
+span{
+    color: rgb(119, 14, 7);
+}
+.div2{
+    width: 480px;
+    border: 1px solid black;
+}
+.div3{
+    border: 1px solid black;
+    width: 480px;
+}
